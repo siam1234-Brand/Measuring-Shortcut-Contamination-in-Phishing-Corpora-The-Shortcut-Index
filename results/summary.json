@@ -1,0 +1,537 @@
+{
+ "AUROC": {
+  "SI": {
+   "S1": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S2": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S3": [
+    0.667,
+    0.55,
+    0.783
+   ],
+   "all": [
+    0.889,
+    0.827,
+    0.939
+   ],
+   "G": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  "c1": {
+   "S1": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S2": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S3": [
+    0.216,
+    0.124,
+    0.315
+   ],
+   "all": [
+    0.739,
+    0.635,
+    0.832
+   ],
+   "G": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  "c2": {
+   "S1": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S2": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S3": [
+    0.292,
+    0.185,
+    0.408
+   ],
+   "all": [
+    0.764,
+    0.67,
+    0.851
+   ],
+   "G": [
+    0.869,
+    0.73,
+    0.975
+   ]
+  },
+  "c3": {
+   "S1": [
+    0.999,
+    0.995,
+    1.0
+   ],
+   "S2": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S3": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "all": [
+    1.0,
+    0.998,
+    1.0
+   ],
+   "G": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  "max_single_auc": {
+   "S1": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S2": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S3": [
+    0.474,
+    0.354,
+    0.593
+   ],
+   "all": [
+    0.825,
+    0.743,
+    0.893
+   ],
+   "G": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  "max_mi": {
+   "S1": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S2": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S3": [
+    0.454,
+    0.328,
+    0.576
+   ],
+   "all": [
+    0.818,
+    0.734,
+    0.89
+   ],
+   "G": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  "tree_importance": {
+   "S1": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S2": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S3": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "all": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "G": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  "drop_one": {
+   "S1": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S2": [
+    0.608,
+    0.48,
+    0.731
+   ],
+   "S3": [
+    0.973,
+    0.936,
+    0.995
+   ],
+   "all": [
+    0.86,
+    0.794,
+    0.919
+   ],
+   "G": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  "F3": {
+   "S1": [
+    0.279,
+    0.158,
+    0.415
+   ],
+   "S2": [
+    0.195,
+    0.111,
+    0.283
+   ],
+   "S3": [
+    0.274,
+    0.171,
+    0.389
+   ],
+   "all": [
+    0.249,
+    0.163,
+    0.338
+   ],
+   "G": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  "L1": {
+   "S1": [
+    0.756,
+    0.637,
+    0.872
+   ],
+   "S2": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "S3": [
+    0.333,
+    0.217,
+    0.45
+   ],
+   "all": [
+    0.696,
+    0.596,
+    0.788
+   ],
+   "G": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  }
+ },
+ "scenario_means": {
+  "G": {
+   "SI_mean": 0.801,
+   "SI_std": 0.085,
+   "c1_mean": 0.86,
+   "c1_std": 0.01,
+   "c2_mean": 0.557,
+   "c2_std": 0.248,
+   "c3_mean": 0.988,
+   "c3_std": 0.01,
+   "max_single_auc_mean": 0.965,
+   "max_single_auc_std": 0.004,
+   "max_mi_mean": 0.759,
+   "max_mi_std": 0.014,
+   "tree_importance_mean": 0.789,
+   "tree_importance_std": 0.014,
+   "drop_one_mean": 0.408,
+   "drop_one_std": 0.013,
+   "F3_mean": 0.39,
+   "F3_std": 0.085,
+   "L1_mean": 0.973,
+   "L1_std": 0.003,
+   "SI_null_mean": null,
+   "SI_null_std": null,
+   "in_domain_tree_mean": 0.898,
+   "in_domain_tree_std": 0.008
+  },
+  "N": {
+   "SI_mean": 0.002,
+   "SI_std": 0.003,
+   "c1_mean": 0.004,
+   "c1_std": 0.01,
+   "c2_mean": 0.001,
+   "c2_std": 0.001,
+   "c3_mean": 0.0,
+   "c3_std": 0.0,
+   "max_single_auc_mean": 0.053,
+   "max_single_auc_std": 0.012,
+   "max_mi_mean": 0.028,
+   "max_mi_std": 0.008,
+   "tree_importance_mean": 0.121,
+   "tree_importance_std": 0.016,
+   "drop_one_mean": 0.014,
+   "drop_one_std": 0.006,
+   "F3_mean": 0.004,
+   "F3_std": 0.001,
+   "L1_mean": 0.651,
+   "L1_std": 0.029,
+   "SI_null_mean": 0.002,
+   "SI_null_std": 0.004,
+   "in_domain_tree_mean": 0.502,
+   "in_domain_tree_std": 0.007
+  },
+  "S1": {
+   "SI_mean": 0.872,
+   "SI_std": 0.079,
+   "c1_mean": 0.902,
+   "c1_std": 0.062,
+   "c2_mean": 0.811,
+   "c2_std": 0.109,
+   "c3_mean": 0.902,
+   "c3_std": 0.079,
+   "max_single_auc_mean": 0.906,
+   "max_single_auc_std": 0.06,
+   "max_mi_mean": 0.741,
+   "max_mi_std": 0.139,
+   "tree_importance_mean": 0.767,
+   "tree_importance_std": 0.117,
+   "drop_one_mean": 0.436,
+   "drop_one_std": 0.035,
+   "F3_mean": 0.059,
+   "F3_std": 0.223,
+   "L1_mean": 0.894,
+   "L1_std": 0.063,
+   "SI_null_mean": 0.002,
+   "SI_null_std": 0.004,
+   "in_domain_tree_mean": 0.91,
+   "in_domain_tree_std": 0.051
+  },
+  "S2": {
+   "SI_mean": 0.921,
+   "SI_std": 0.017,
+   "c1_mean": 0.864,
+   "c1_std": 0.033,
+   "c2_mean": 0.924,
+   "c2_std": 0.021,
+   "c3_mean": 0.975,
+   "c3_std": 0.019,
+   "max_single_auc_mean": 0.873,
+   "max_single_auc_std": 0.031,
+   "max_mi_mean": 0.653,
+   "max_mi_std": 0.062,
+   "tree_importance_mean": 0.654,
+   "tree_importance_std": 0.06,
+   "drop_one_mean": 0.018,
+   "drop_one_std": 0.005,
+   "F3_mean": 0.004,
+   "F3_std": 0.001,
+   "L1_mean": 0.985,
+   "L1_std": 0.006,
+   "SI_null_mean": null,
+   "SI_null_std": null,
+   "in_domain_tree_mean": 0.979,
+   "in_domain_tree_std": 0.005
+  },
+  "S3": {
+   "SI_mean": 0.339,
+   "SI_std": 0.005,
+   "c1_mean": 0.01,
+   "c1_std": 0.013,
+   "c2_mean": 0.007,
+   "c2_std": 0.007,
+   "c3_mean": 1.0,
+   "c3_std": 0.0,
+   "max_single_auc_mean": 0.232,
+   "max_single_auc_std": 0.016,
+   "max_mi_mean": 0.046,
+   "max_mi_std": 0.01,
+   "tree_importance_mean": 0.234,
+   "tree_importance_std": 0.031,
+   "drop_one_mean": 0.044,
+   "drop_one_std": 0.012,
+   "F3_mean": 0.005,
+   "F3_std": 0.002,
+   "L1_mean": 0.756,
+   "L1_std": 0.012,
+   "SI_null_mean": null,
+   "SI_null_std": null,
+   "in_domain_tree_mean": 0.574,
+   "in_domain_tree_std": 0.013
+  },
+  "W": {
+   "SI_mean": 0.224,
+   "SI_std": 0.039,
+   "c1_mean": 0.129,
+   "c1_std": 0.03,
+   "c2_mean": 0.162,
+   "c2_std": 0.02,
+   "c3_mean": 0.38,
+   "c3_std": 0.114,
+   "max_single_auc_mean": 0.236,
+   "max_single_auc_std": 0.015,
+   "max_mi_mean": 0.046,
+   "max_mi_std": 0.008,
+   "tree_importance_mean": 0.107,
+   "tree_importance_std": 0.01,
+   "drop_one_mean": 0.017,
+   "drop_one_std": 0.01,
+   "F3_mean": 0.007,
+   "F3_std": 0.002,
+   "L1_mean": 0.814,
+   "L1_std": 0.007,
+   "SI_null_mean": null,
+   "SI_null_std": null,
+   "in_domain_tree_mean": 0.604,
+   "in_domain_tree_std": 0.009
+  },
+  "W2": {
+   "SI_mean": 0.406,
+   "SI_std": 0.03,
+   "c1_mean": 0.226,
+   "c1_std": 0.033,
+   "c2_mean": 0.426,
+   "c2_std": 0.018,
+   "c3_mean": 0.566,
+   "c3_std": 0.096,
+   "max_single_auc_mean": 0.367,
+   "max_single_auc_std": 0.015,
+   "max_mi_mean": 0.09,
+   "max_mi_std": 0.01,
+   "tree_importance_mean": 0.11,
+   "tree_importance_std": 0.009,
+   "drop_one_mean": 0.017,
+   "drop_one_std": 0.008,
+   "F3_mean": 0.014,
+   "F3_std": 0.003,
+   "L1_mean": 0.898,
+   "L1_std": 0.005,
+   "SI_null_mean": null,
+   "SI_null_std": null,
+   "in_domain_tree_mean": 0.711,
+   "in_domain_tree_std": 0.012
+  }
+ },
+ "dose": {
+  "0.5": {
+   "SI_mean": 0.002,
+   "SI_std": 0.003,
+   "SI_null_mean": 0.003,
+   "SI_null_std": 0.005
+  },
+  "0.6": {
+   "SI_mean": 0.098,
+   "SI_std": 0.033,
+   "SI_null_mean": 0.002,
+   "SI_null_std": 0.004
+  },
+  "0.7": {
+   "SI_mean": 0.314,
+   "SI_std": 0.027,
+   "SI_null_mean": 0.002,
+   "SI_null_std": 0.004
+  },
+  "0.8": {
+   "SI_mean": 0.508,
+   "SI_std": 0.036,
+   "SI_null_mean": 0.002,
+   "SI_null_std": 0.004
+  },
+  "0.9": {
+   "SI_mean": 0.73,
+   "SI_std": 0.04,
+   "SI_null_mean": 0.002,
+   "SI_null_std": 0.004
+  },
+  "0.95": {
+   "SI_mean": 0.857,
+   "SI_std": 0.052,
+   "SI_null_mean": 0.002,
+   "SI_null_std": 0.004
+  },
+  "1.0": {
+   "SI_mean": 0.981,
+   "SI_std": 0.064,
+   "SI_null_mean": 0.002,
+   "SI_null_std": 0.003
+  }
+ },
+ "ablation": {
+  "0": {
+   "SI_mean": 0.921,
+   "SI_std": 0.017
+  },
+  "1": {
+   "SI_mean": 0.905,
+   "SI_std": 0.024
+  },
+  "2": {
+   "SI_mean": 0.876,
+   "SI_std": 0.024
+  },
+  "3": {
+   "SI_mean": 0.809,
+   "SI_std": 0.043
+  },
+  "4": {
+   "SI_mean": 0.733,
+   "SI_std": 0.114
+  },
+  "5": {
+   "SI_mean": 0.002,
+   "SI_std": 0.003
+  }
+ },
+ "flag_rate_SI_gt_0.8": {
+  "G": 0.8,
+  "N": 0.0,
+  "S1": 0.8,
+  "S2": 1.0,
+  "S3": 0.0,
+  "W": 0.0,
+  "W2": 0.0
+ }
+}

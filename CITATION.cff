@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "The Shortcut Index: Screening Phishing Corpora for Shortcut Contamination"
+license: MIT
+repository-code: "https://github.com/siam1234-Brand/Measuring-Shortcut-Contamination-in-Phishing-Corpora-The-Shortcut-Index"
+authors:
+  - given-names: "Md. Mahabubur Rahaman"
+    family-names: "Siam"
+    affiliation: "American International University-Bangladesh (AIUB)"
+  - given-names: "Soumik Das"
+    family-names: "Dipon"
+    affiliation: "American International University-Bangladesh (AIUB)"
+  - given-names: "Sayma Rahman"
+    family-names: "Shanta"
+    affiliation: "American International University-Bangladesh (AIUB)"
+preferred-citation:
+  type: conference-paper
+  title: "The Shortcut Index: Screening Phishing Corpora for Shortcut Contamination"
+  authors:
+    - given-names: "Md. Mahabubur Rahaman"
+      family-names: "Siam"
+    - given-names: "Soumik Das"
+      family-names: "Dipon"
+    - given-names: "Sayma Rahman"
+      family-names: "Shanta"
+  collection-title: "2026 29th International Conference on Computer and Information Technology (ICCIT)"
+  publisher:
+    name: "IEEE"
+  conference:
+    name: "ICCIT 2026"
+    city: "Cox's Bazar"
+    country: "BD"
+  year: 2026
